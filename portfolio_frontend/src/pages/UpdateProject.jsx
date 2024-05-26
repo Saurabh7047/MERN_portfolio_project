@@ -201,8 +201,8 @@ const UpdateProject = () => {
                         <SelectContent>
                           <SelectItem value="Full Stack">Full Stack</SelectItem>
                           <SelectItem value="Mern">MERN</SelectItem>
-                          <SelectItem value="Mean">MEAN</SelectItem>
-                          <SelectItem value="Next.JS">NEXT.JS</SelectItem>
+                          <SelectItem value="Backend Project">Backend</SelectItem>
+                          <SelectItem value="Frontend Project">Frontend</SelectItem>
                           <SelectItem value="React.JS">REACT.JS</SelectItem>
                         </SelectContent>
                       </Select>
